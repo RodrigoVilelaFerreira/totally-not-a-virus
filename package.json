@@ -1,0 +1,17 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Minha versão do https://www.tabnews.com.br utilizando os conhecimentos adquiridos no https://curso.dev (curso criado pelo Filipe Deschamps)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
+
